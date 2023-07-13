@@ -1,0 +1,11 @@
+.header{
+    margin-top: 20%;
+    text-align: center;  
+}
+.header p{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.header button{
+    margin-bottom: 250px;
+} 
