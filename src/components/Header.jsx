@@ -8,7 +8,6 @@ function Header() {
     <>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand as={Link} to={'/'}>FLAMEBUDZ</Navbar.Brand>
           <Nav className="ms-auto">
             <Nav.Link as={Link} to={'/'}>Home</Nav.Link>
             <Nav.Link as={Link} to={'/about'} >About</Nav.Link>
